@@ -1,0 +1,13 @@
+pedro\ieslaencanta\com\chess\ui\Principal.class
+pedro\ieslaencanta\com\chess\ui\BoardUI.class
+pedro\ieslaencanta\com\chess\model\Position.class
+pedro\ieslaencanta\com\chess\ui\Principal$1.class
+pedro\ieslaencanta\com\chess\model\ChessPiece\Piece.class
+pedro\ieslaencanta\com\chess\model\Board.class
+pedro\ieslaencanta\com\chess\ui\Message.class
+pedro\ieslaencanta\com\chess\model\Move.class
+pedro\ieslaencanta\com\chess\model\Cell.class
+pedro\ieslaencanta\com\chess\ui\Message$1.class
+pedro\ieslaencanta\com\chess\model\ChessPiece\PieceType.class
+pedro\ieslaencanta\com\chess\controller\Game.class
+pedro\ieslaencanta\com\chess\ui\piece\PieceUI.class
